@@ -1,5 +1,4 @@
 // custom typefaces
-import "typeface-montserrat"
 import "typeface-open-sans"
 import "typeface-merriweather"
 import "typeface-libre-baskerville"
