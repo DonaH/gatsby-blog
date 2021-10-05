@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>D_favicon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="D_favicon" stroke="#F05F40">
+            <rect id="Rectangle-1" stroke-width="7" x="0" y="0" width="128" height="128"></rect>
+            <path d="M40,19 L40,109.494444" id="Path-1" stroke-width="12"></path>
+            <path d="M31.6850219,20.0772826 C31.6850219,20.0772826 70.2292878,18.0755962 86.3657732,36.0907736 C86.3657732,36.0907736 107.587017,59.1101669 91.1463773,86.1329337 C75.3193941,113.1557 31,106.966667 31,106.966667" id="Path-2" stroke-width="12"></path>
+        </g>
+    </g>
+</svg>
