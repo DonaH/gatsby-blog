@@ -28,7 +28,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
       <StaticImage 
           formats={["auto", "webp", "avif"]}
-          src="../images/cg.png"
+          src="../images/cg-new-color.svg"
           width={24}
           height={24}
           alt="Cipher and Ginger logo"
